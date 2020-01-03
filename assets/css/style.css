@@ -55,3 +55,29 @@ header
   font-weight: bold;
   color: #FF003C !important;
 }
+
+/* --------------------------------------------------------------------
+header
+-----------------------------------------------------------------------*/
+#home .row .caption h1 {
+  color: #000;
+  font-weight: bold;
+  margin-top: 130px;
+}
+
+#home .row .caption h1 span {
+  color: #FF003C;
+}
+
+#home .row .caption h5 {
+  color: #E2E3ED;
+  padding-top: 10px;
+  line-height: 30px;
+  margin-bottom: 50px;
+}
+
+.btn-lg {
+  background-color: #F9B313;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+}
