@@ -81,3 +81,28 @@ header
   padding: 10px 20px 10px 20px;
   border-radius: 30px;
 }
+
+/* --------------------------------------------------------------------
+bhinneka
+-----------------------------------------------------------------------*/
+#bhinneka {
+  margin-top: 130px;
+  background-color: #FF7272 !important;
+}
+
+#bhinneka .row .caption h2 {
+  margin-top: 100px;
+  color: #FF003C;
+  font-weight: bold;
+}
+
+#bhinneka .row .caption h5 {
+  color: #E2E3ED;
+  line-height: 35px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+#bhinneka .row .img img {
+  width: 500px;
+}
