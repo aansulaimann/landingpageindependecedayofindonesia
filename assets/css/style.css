@@ -106,3 +106,23 @@ bhinneka
 #bhinneka .row .img img {
   width: 500px;
 }
+
+/* --------------------------------------------------------------------
+bhinneka
+-----------------------------------------------------------------------*/
+#president .row .caption h4 {
+  color: #FF003C;
+}
+
+#president .row .caption h4 span {
+  font-weight: bold;
+}
+
+#president .row .caption h6 {
+  opacity: 0.4;
+}
+
+#president .row .img-caption h3,
+h6 {
+  opacity: 0.6;
+}
