@@ -152,3 +152,19 @@ pancasila
 #pancasila .row .img img {
   margin-bottom: 80px;
 }
+
+/* --------------------------------------------------------------------
+quotes
+-----------------------------------------------------------------------*/
+#quotes {
+  margin-top: -50px;
+  background-color: #F9B313;
+}
+
+#quotes .row .caption h3 {
+  color: white;
+  padding: 40px 0 40px 0;
+  font-style: italic;
+  text-align: center;
+  line-height: 35px;
+}
