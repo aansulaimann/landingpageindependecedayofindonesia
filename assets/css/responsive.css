@@ -51,6 +51,23 @@ Large Mobile version
   #bhinneka .row .caption h5 {
     font-size: 20px;
   }
+
+  /* pancasila */
+  #pancasila {
+    padding-bottom: 30px;
+  }
+
+  #pancasila .row .caption h5 {
+    margin-bottom: 50px;
+  }
+
+  #pancasila .row .caption .btn-lg {
+    margin-top: -90px !important;
+  }
+
+  #pancasila .row .img {
+    margin-left: -1500px;
+  }
 }
 
 /*-----------------------------------------------------
@@ -106,6 +123,23 @@ Medium Mobile version
   #bhinneka .row .caption h5 {
     font-size: 15.5px;
   }
+
+  /* pancasila */
+  #pancasila {
+    padding-bottom: 30px;
+  }
+
+  #pancasila .row .caption h5 {
+    margin-bottom: 50px;
+  }
+
+  #pancasila .row .caption .btn-lg {
+    margin-top: -90px !important;
+  }
+
+  #pancasila .row .img {
+    margin-left: -1500px;
+  }
 }
 
 /*-----------------------------------------------------
@@ -160,5 +194,22 @@ Small Mobile version
 
   #bhinneka .row .caption h5 {
     font-size: 14px;
+  }
+
+  /* pancasila */
+  #pancasila {
+    padding-bottom: 30px;
+  }
+
+  #pancasila .row .caption h5 {
+    margin-bottom: 50px;
+  }
+
+  #pancasila .row .caption .btn-lg {
+    margin-top: -90px !important;
+  }
+
+  #pancasila .row .img {
+    margin-left: -1500px;
   }
 }
