@@ -152,6 +152,12 @@ Medium Mobile version
     font-size: 19px;
     line-height: 25px;
   }
+
+  /* footer */
+  #footer .row .footer h4 {
+    margin-top: 70px;
+    font-size: 18px;
+  }
 }
 
 /*-----------------------------------------------------
@@ -229,5 +235,11 @@ Small Mobile version
   #quotes .row .caption h3 {
     font-size: 17px;
     line-height: 25px;
+  }
+
+  /* footer */
+  #footer .row .footer h4 {
+    margin-top: 70px;
+    font-size: 14px;
   }
 }
