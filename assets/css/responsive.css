@@ -2,6 +2,7 @@
 Large Mobile version
 -------------------------------------------------------*/
 @media only screen and (min-width: 480px) and (max-width: 767px) {
+
   /* hedaer */
   .navbar {
     box-shadow: 5px 5px 10px #e2e3ed;
@@ -30,6 +31,25 @@ Large Mobile version
   .img img {
     width: 40px;
     margin-left: -500px;
+  }
+
+  /* bhinneka */
+  #bhinneka {
+    margin-top: 40px;
+    border-radius: 0 0 25px 25px;
+  }
+
+  #bhinneka .row .img img {
+    margin-left: -600px;
+  }
+
+  #bhinneka .row .caption h2 {
+    font-size: 25px;
+    margin-top: -480px;
+  }
+
+  #bhinneka .row .caption h5 {
+    font-size: 20px;
   }
 }
 
@@ -37,6 +57,7 @@ Large Mobile version
 Medium Mobile version
 -------------------------------------------------------*/
 @media only screen and (min-width: 360px) and (max-width: 479px) {
+
   /* hedaer */
   .navbar {
     box-shadow: 5px 5px 10px #e2e3ed;
@@ -55,7 +76,7 @@ Medium Mobile version
   /* home-area */
   #home .row .caption h1 {
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 25px;
   }
 
   #home .row .caption h5 {
@@ -65,6 +86,25 @@ Medium Mobile version
   .img img {
     width: 40px;
     margin-left: -500px;
+  }
+
+  /* bhinneka */
+  #bhinneka {
+    margin-top: 40px;
+    border-radius: 0 0 25px 25px;
+  }
+
+  #bhinneka .row .img img {
+    margin-left: -600px;
+  }
+
+  #bhinneka .row .caption h2 {
+    font-size: 20px;
+    margin-top: -480px;
+  }
+
+  #bhinneka .row .caption h5 {
+    font-size: 15.5px;
   }
 }
 
@@ -72,6 +112,7 @@ Medium Mobile version
 Small Mobile version
 -------------------------------------------------------*/
 @media only screen and (min-width: 320px) and (max-width: 359px) {
+
   /* hedaer */
   .navbar {
     box-shadow: 5px 5px 10px #e2e3ed;
@@ -100,5 +141,24 @@ Small Mobile version
   .img img {
     width: 40px;
     margin-left: -500px;
+  }
+
+  /* bhinneka */
+  #bhinneka {
+    margin-top: 40px;
+    border-radius: 0 0 25px 25px;
+  }
+
+  #bhinneka .row .img img {
+    margin-left: -600px;
+  }
+
+  #bhinneka .row .caption h2 {
+    font-size: 18px;
+    margin-top: -480px;
+  }
+
+  #bhinneka .row .caption h5 {
+    font-size: 14px;
   }
 }
