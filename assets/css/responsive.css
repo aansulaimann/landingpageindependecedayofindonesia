@@ -68,6 +68,12 @@ Large Mobile version
   #pancasila .row .img {
     margin-left: -1500px;
   }
+
+  /* quotes */
+  #quotes .row .caption h3 {
+    font-size: 20px;
+    line-height: 25px;
+  }
 }
 
 /*-----------------------------------------------------
@@ -140,6 +146,12 @@ Medium Mobile version
   #pancasila .row .img {
     margin-left: -1500px;
   }
+
+  /* quotes */
+  #quotes .row .caption h3 {
+    font-size: 19px;
+    line-height: 25px;
+  }
 }
 
 /*-----------------------------------------------------
@@ -188,12 +200,12 @@ Small Mobile version
   }
 
   #bhinneka .row .caption h2 {
-    font-size: 18px;
+    font-size: 17px;
     margin-top: -480px;
   }
 
   #bhinneka .row .caption h5 {
-    font-size: 14px;
+    font-size: 13px;
   }
 
   /* pancasila */
@@ -211,5 +223,11 @@ Small Mobile version
 
   #pancasila .row .img {
     margin-left: -1500px;
+  }
+
+  /* quotes */
+  #quotes .row .caption h3 {
+    font-size: 17px;
+    line-height: 25px;
   }
 }
